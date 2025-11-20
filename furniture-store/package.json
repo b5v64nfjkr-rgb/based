@@ -1,0 +1,8 @@
+{
+  "name": "furniture-store-root",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
